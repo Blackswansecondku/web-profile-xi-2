@@ -47,11 +47,47 @@ const data = [
     },
     {
       name: "Anjaz Syahri W",
-      img: "foto XI 2/anjab.JPG",
+      img: "foto XI 2/anjaz.JPG",
       motto: "Ba ndue",
       nis: "11643",
       absen: "6",
       organisasi: "Ketua MPK, DT",
+      prestasi: "-",
+    },
+    {
+      name: "Arimbi Agni",
+      img: "foto XI 2/arimbi.JPG",
+      motto: "expectations are kills our happiness ",
+      nis: "11681",
+      absen: "7",
+      organisasi: "PMR",
+      prestasi: "-",
+    },
+    {
+      name: "Ariva Az-zahra",
+      img: "foto XI 2/arimbi.JPG",
+      motto: "Tetap hidup untuk ribuan es krim di dunia",
+      nis: "11752",
+      absen: "8",
+      organisasi: "MPK (Koor komisi C)",
+      prestasi: "-",
+    },
+    {
+      name: "Aufa Fauziyah",
+      img: "foto XI 2/Zia.JPG",
+      motto: "Tidak ada mimpi yang gagal,yang ada hanyalah mimpi yang tertunda",
+      nis: "11682",
+      absen: "9",
+      organisasi: "-",
+      prestasi: "-",
+    },
+    {
+      name: "Bima Satya Krisnandy",
+      img: "foto XI 2/bima.JPG",
+      motto: "Be nice! ",
+      nis: "11649",
+      absen: "10",
+      organisasi: "Anggota OSIS, DU, PARIGITA",
       prestasi: "-",
     },
     {
@@ -60,8 +96,8 @@ const data = [
         "motto": "Love yourself",
         "nis": "11655",
         "absen": "11",
-        "organisasi": "1Pik-r (Pendidik sebaya), SRC (Sie materi)",
-        "prestasi": "11"
+        "organisasi": "Pik-r (Pendidik sebaya), SRC (Sie materi)",
+        "prestasi": "-"
     },
     {
         "name": "Eka Rafif Ivan S",
@@ -222,6 +258,15 @@ const data = [
         "motto": "-",
         "nis": "11813",
         "absen": "29",
+        "organisasi": "DT (Sie Lapangan), DU (Wakil Ketua)",
+        "prestasi": "PASKIBRAKA Kabupaten Bantul, POR Voli"
+      },
+      {
+        "name": "Tatak Anggi Anggoro",
+        "img": "foto XI 2/tatak.JPG",
+        "motto": "ndhaap asor ra ndlosor",
+        "nis": "11637",
+        "absen": "30",
         "organisasi": "DT (Sie Lapangan), DU (Wakil Ketua)",
         "prestasi": "PASKIBRAKA Kabupaten Bantul, POR Voli"
       },
