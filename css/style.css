@@ -96,14 +96,14 @@
 }
 
 .button-search {
-    color: red;
-    border: 1px solid red;
+    color: rgb(136, 0, 214);
+    border: 1px solid rgb(136, 0, 214);
 }
 
 .button-search:hover {
     color: #ffffff;
-    border: 1px solid red;
-    background-color: red;
+    border: 1px solid rgb(136, 0, 214);
+    background-color: rgb(136, 0, 214);
 }
 
 /*** Navbar Start ***/
@@ -134,7 +134,7 @@
 
 .navbar-light .navbar-nav .nav-link:hover,
 .navbar-light .navbar-nav .nav-link.active {
-    color:red;
+    color:rgb(136, 0, 214);
 }
 
 .navbar-light .navbar-brand img {
