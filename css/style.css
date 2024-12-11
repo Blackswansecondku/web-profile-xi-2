@@ -230,7 +230,7 @@
     transform: translateY(-50%);
     margin-right: -60px;
     border-radius: 60px;
-    background: red;
+    background: rgb(136, 0, 214);
     color: var(--bs-white);
     font-size: 26px;
     display: flex;
